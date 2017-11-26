@@ -5,8 +5,9 @@ public class egitTest {
 		System.out.println("Hello EGit");
 		System.out.println("Hello EGit");
 		System.out.println("Hello EGit");
-		System.out.println("Hello EGit");
-		System.out.println("Hello EGit");
-		System.out.println("Hello EGit");
+		
+		System.out.println("Hello EGit1");
+		System.out.println("Hello EGit1");
+		System.out.println("Hello EGit1");
 	}
 }
